@@ -7,6 +7,7 @@ public class ContainsDuplicate {
         System.out.println(containsDuplicate(testArray));
     }
 
+    // From https://leetcode.com/problems/contains-duplicate/
     private static boolean containsDuplicate(int[] nums) {
         if (nums == null || nums.length <= 1) {
             return false;
