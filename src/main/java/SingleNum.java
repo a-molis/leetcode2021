@@ -1,5 +1,6 @@
 public class SingleNum {
 
+    // From https://leetcode.com/problems/single-number
     public static int singleNumber(int[] nums) {
         int single = 0;
         for (Integer num: nums) {
