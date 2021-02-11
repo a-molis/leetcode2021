@@ -1,0 +1,7 @@
+The leetcode problems are stored at 
+github.com/a-molis/leetcode2021
+
+Each problem has a link to the problem on leetcode.
+1 test case was written for each problem in a main method.
+
+The code was run on leetcode and passes all of the tests on there.
