@@ -8,6 +8,8 @@ Solutions by Andrew Molis
    * [Leetcode Link](https://leetcode.com/problems/number-of-good-pairs)
 2. [Restore String](src/main/java/ContainsDuplicate.java)
    * [Leetcode Link](https://leetcode.com/problems/shuffle-string)
+3. [Number of Steps](src/main/java/NumberOfStepsjava)
+   * [Leetcode Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
 
 ### Problems solved week of Feb 1st and week of Feb 7th
 1. [Contains Duplicate](src/main/java/ContainsDuplicate.java)
