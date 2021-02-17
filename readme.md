@@ -2,6 +2,11 @@
 Solutions by Andrew Molis
 
 ## Weekly Problems
+
+### Problems solved week of Feb 12th through Feb 19th
+1. [Identical Pairs](src/main/java/ContainsDuplicate.java)
+   * [Leetcode Link](https://leetcode.com/problems/number-of-good-pairs)
+
 ### Problems solved week of Feb 1st and week of Feb 7th
 1. [Contains Duplicate](src/main/java/ContainsDuplicate.java)
    * [Leetcode Link](https://leetcode.com/problems/contains-duplicate/)
