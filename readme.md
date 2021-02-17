@@ -4,9 +4,9 @@ Solutions by Andrew Molis
 ## Weekly Problems
 
 ### Problems solved week of Feb 12th through Feb 19th
-1. [Identical Pairs](src/main/java/ContainsDuplicate.java)
+1. [Identical Pairs](src/main/java/IdenticalPairs.java)
    * [Leetcode Link](https://leetcode.com/problems/number-of-good-pairs)
-2. [Restore String](src/main/java/ContainsDuplicate.java)
+2. [Restore String](src/main/java/RestoreString.java)
    * [Leetcode Link](https://leetcode.com/problems/shuffle-string)
 3. [Number of Steps](src/main/java/NumberOfStepsjava)
    * [Leetcode Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)

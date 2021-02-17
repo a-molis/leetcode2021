@@ -1,6 +1,6 @@
 public class IdenticalPairs {
 
-    // From https://leetcode.com/problems/number-of-good-pairs
+    /// From https://leetcode.com/problems/number-of-good-pairs
     public static int numIdenticalPairs(int[] nums) {
         int count = 0;
         for (int i=0; i<nums.length; i++) {
