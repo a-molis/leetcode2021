@@ -6,6 +6,8 @@ Solutions by Andrew Molis
 ### Problems solved week of Feb 20th through Feb 26th
 1. [Merge Two Sorted Lists](src/main/java/MergeTwoLists.java)
    * [Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists)
+2. [To Lower String](src/main/java/ToLowerCase.java)
+   * [Leetcode Link](https://leetcode.com/problems/to-lower-case)
 
 ### Problems solved week of Feb 12th through Feb 19th
 1. [Identical Pairs](src/main/java/IdenticalPairs.java)
