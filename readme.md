@@ -8,6 +8,8 @@ Solutions by Andrew Molis
    * [Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists)
 2. [To Lower String](src/main/java/ToLowerCase.java)
    * [Leetcode Link](https://leetcode.com/problems/to-lower-case)
+3. [Sum Of Unique](src/main/java/SumOfUnique.java)
+   * [Leetcode Link](https://leetcode.com/problems/sum-of-unique-elements)
 
 ### Problems solved week of Feb 12th through Feb 19th
 1. [Identical Pairs](src/main/java/IdenticalPairs.java)
