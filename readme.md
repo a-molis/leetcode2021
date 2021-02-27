@@ -3,6 +3,10 @@ Solutions by Andrew Molis
 
 ## Weekly Problems
 
+### Problems solved week of Feb 20th through Feb 26th
+1. [Merge Two Sorted Lists](src/main/java/MergeTwoLists.java)
+   * [Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists)
+
 ### Problems solved week of Feb 12th through Feb 19th
 1. [Identical Pairs](src/main/java/IdenticalPairs.java)
    * [Leetcode Link](https://leetcode.com/problems/number-of-good-pairs)
