@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class heightChecker {
 
+    // from https://leetcode.com/problems/height-checker/
     public static int heightChecker(int[] heights) {
         int count = 0;
         int[] copy = Arrays.copyOf(heights, heights.length);
