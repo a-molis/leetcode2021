@@ -5,7 +5,11 @@ Solutions by Andrew Molis
 
 ### Problems solved week of Feb 27th through March 5th
 1. [Middle of List](src/main/java/MiddleNode.java)
-    * [Leetcode Link](https://leetcode.com/problems/middle-of-the-linked-list/submissions)
+    * [Leetcode Link](https://leetcode.com/problems/middle-of-the-linked-list)
+2. [Height Checker](src/main/java/heightChecker.java)
+    * [Leetcode Link](https://leetcode.com/problems/height-checker/)
+1. [Reverse Words](src/main/java/ReverseWords.java)
+    * [Leetcode Link](https://leetcode.com/problems/reverse-words-in-a-string-iii)    
 ### Problems solved week of Feb 20th through Feb 26th
 1. [Merge Two Sorted Lists](src/main/java/MergeTwoLists.java)
    * [Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists)
