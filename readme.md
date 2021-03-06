@@ -3,6 +3,9 @@ Solutions by Andrew Molis
 
 ## Weekly Problems
 
+### Problems solved week of Feb 27th through March 5th
+1. [Middle of List](src/main/java/MiddleNode.java)
+    * [Leetcode Link](https://leetcode.com/problems/middle-of-the-linked-list/submissions)
 ### Problems solved week of Feb 20th through Feb 26th
 1. [Merge Two Sorted Lists](src/main/java/MergeTwoLists.java)
    * [Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists)
