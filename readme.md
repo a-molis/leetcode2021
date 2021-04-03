@@ -8,6 +8,8 @@ Solutions by Andrew Molis
     * [Leetcode Link](https://leetcode.com/problems/word-pattern/)
 2. [Unival Tree](src/main/java/isUnivalTree.java)
     * [Leetcode Link](https://leetcode.com/problems/univalued-binary-tree/)    
+3. [Sum of Range of BST](src/main/java/rangeSumBST.java)
+    * [Leetcode Link](https://leetcode.com/problems/range-sum-of-bst)
 
 ### Problems solved week of Feb 27th through March 5th
 1. [Middle of List](src/main/java/MiddleNode.java)
