@@ -6,6 +6,8 @@ Solutions by Andrew Molis
 ### Problems solved week of March 27th through April 2th
 1. [Word Pattern](src/main/java/WordPattern.java)
     * [Leetcode Link](https://leetcode.com/problems/word-pattern/)
+2. [Word Pattern](src/main/java/isUnivalTree.java)
+    * [Leetcode Link](https://leetcode.com/problems/univalued-binary-tree/)    
 
 ### Problems solved week of Feb 27th through March 5th
 1. [Middle of List](src/main/java/MiddleNode.java)
