@@ -3,6 +3,12 @@ Solutions by Andrew Molis
 
 ## Weekly Problems
 
+### Problems solved week of April 17th through April 23rd
+1. [Inorder Traversal](src/main/java/InorderTraversal.java)
+    * [Leetcode Link](https://leetcode.com/problems/binary-tree-inorder-traversal)
+2. [Postorder Traversal](src/main/java/PostorderTraversal.java)
+    * [Leetcode Link](https://leetcode.com/problems/binary-tree-postorder-traversal)
+
 ### Problems solved week of March 27th through April 2th
 1. [Word Pattern](src/main/java/WordPattern.java)
     * [Leetcode Link](https://leetcode.com/problems/word-pattern/)
